@@ -1,0 +1,7 @@
+// main style
+
+sass --watch C:\Users\ashrafuloli\Desktop\New-Starter-Project\assets\scss\style.scss:C:\Users\ashrafuloli\Desktop\New-Starter-Project\assets\css\style.css
+
+// spacing
+
+sass --watch C:\Users\ashrafuloli\Desktop\New-Starter-Project\assets\scss\spacing.scss:C:\Users\ashrafuloli\Desktop\New-Starter-Project\assets\css\spacing.css
